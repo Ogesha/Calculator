@@ -1,0 +1,16 @@
+C:\Users\Печенька\Desktop\laby\CalculatorApp\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.MainForm.resources
+C:\Users\Печенька\Desktop\laby\CalculatorApp\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\Печенька\Desktop\laby\CalculatorApp\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Печенька\Desktop\laby\CalculatorApp\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\Печенька\Desktop\laby\CalculatorApp\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.AssemblyInfo.cs
+C:\Users\Печенька\Desktop\laby\CalculatorApp\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Печенька\Desktop\laby\CalculatorApp\CalculatorApp\bin\Debug\net8.0-windows\CalculatorApp.exe
+C:\Users\Печенька\Desktop\laby\CalculatorApp\CalculatorApp\bin\Debug\net8.0-windows\CalculatorApp.deps.json
+C:\Users\Печенька\Desktop\laby\CalculatorApp\CalculatorApp\bin\Debug\net8.0-windows\CalculatorApp.runtimeconfig.json
+C:\Users\Печенька\Desktop\laby\CalculatorApp\CalculatorApp\bin\Debug\net8.0-windows\CalculatorApp.dll
+C:\Users\Печенька\Desktop\laby\CalculatorApp\CalculatorApp\bin\Debug\net8.0-windows\CalculatorApp.pdb
+C:\Users\Печенька\Desktop\laby\CalculatorApp\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.dll
+C:\Users\Печенька\Desktop\laby\CalculatorApp\CalculatorApp\obj\Debug\net8.0-windows\refint\CalculatorApp.dll
+C:\Users\Печенька\Desktop\laby\CalculatorApp\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.pdb
+C:\Users\Печенька\Desktop\laby\CalculatorApp\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.genruntimeconfig.cache
+C:\Users\Печенька\Desktop\laby\CalculatorApp\CalculatorApp\obj\Debug\net8.0-windows\ref\CalculatorApp.dll
